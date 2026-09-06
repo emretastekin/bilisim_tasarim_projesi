@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288651217160",
+    "project_id": "akillimutfakasistani-9ec0f",
+    "storage_bucket": "akillimutfakasistani-9ec0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288651217160:android:8f6472eaedfbce1ea484bd",
+        "android_client_info": {
+          "package_name": "com.emretastekin.akillimutfakasistani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOWOG-MutKYmDJjVb1hOFaxSk-Z50cAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
